@@ -1,1 +1,2 @@
 # finalproject
+Speech-to-text technology has revolutionized the way users interact with computers, providing an accessible and hands-free method of communication. This project focuses on developing a speech-to-text application that allows users to convert spoken language into written text in real-time. The application leverages the Google Web Speech API and provides a user-friendly interface built with Tkinter. It supports multiple languages, making it versatile and useful for various user needs.
